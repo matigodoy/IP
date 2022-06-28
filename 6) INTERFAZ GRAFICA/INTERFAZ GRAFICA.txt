@@ -1,0 +1,8 @@
+Interfaz Gráfica
+cumple la funcion de parcial o recuperacion
+
+del 11 al 17 del parcial 4 hay que hacer parte grafica (agregar pantalla de inicio, lerta linda, etc).
+
+el parcial 5 tiene un menu con todos los ejercicios (7 en total)
+
+
